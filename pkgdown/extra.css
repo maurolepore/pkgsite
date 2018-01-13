@@ -8,3 +8,11 @@
 .error   { color: red;  font-weight: bolder;}
 .warning { color: purple; font-weight: bolder;
 }
+
+
+
+
+.navbar {
+  background-color: red;
+  }
+}
