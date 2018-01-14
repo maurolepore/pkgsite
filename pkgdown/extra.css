@@ -1,3 +1,4 @@
+/* Change code chunk style -----------------------------------------------*/
 .fl      {color: blue;}
 .fu      {color: blue;} /* function */
 .ch,.st  {color: orange;} /* string */
@@ -14,5 +15,14 @@
 
 .navbar {
   background-color: green;
+  border-color: green;
+
+}
+
+
+
+html *
+{
+   font-family: arial;
 }
 
